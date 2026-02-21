@@ -29,7 +29,7 @@ const http = require('http');
 
 http.createServer(function (req, res) {
     res.writeHead(200, {'Content-Type': 'text/html'});
-    res.write('Hello World!');
+    res.write('Hello World! This update was brought to you by Lanka.');
     res.end();
 }).listen(8080);
 
