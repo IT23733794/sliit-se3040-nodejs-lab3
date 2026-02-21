@@ -1,1 +1,1 @@
-# sliit-se3040-nidejs-lab3
+# sliit-se3040-nodejs-lab3
